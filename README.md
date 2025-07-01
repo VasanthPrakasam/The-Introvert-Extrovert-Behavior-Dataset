@@ -1,4 +1,4 @@
- # Introvert-Extrovert Behavioral Analysis | 90-Day Data Science Study* 
+ # Introvert-Extrovert Behavioral Analysis | Data Science Study* 
 *Can data decode personality? A 90-day data science journey.*  
 
 ## 🎯 Goal  
