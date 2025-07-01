@@ -1,5 +1,5 @@
  # Introvert-Extrovert Behavioral Analysis | Data Science Study* 
-*Can data decode personality? A 90-day data science journey.*  
+*Can data decode personality? In My data science journey.*  
 
 ## 🎯 Goal  
 To classify and contextualize introvert-extrovert behaviors using statistical and machine learning techniques, while documenting open-source learning.  
