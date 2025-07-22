@@ -1,0 +1,9 @@
+,Time_spent_Alone,Stage_fear,Social_event_attendance,Going_outside,Drained_after_socializing,Friends_circle_size,Post_frequency,Personality
+Time_spent_Alone,1,0,1,0,0,0,1,0
+Stage_fear,0,1,0,0,1,0,0,1
+Social_event_attendance,1,0,1,0,0,0,1,0
+Going_outside,0,0,0,1,0,0,1,0
+Drained_after_socializing,0,1,0,0,1,0,0,1
+Friends_circle_size,0,0,0,0,0,1,0,0
+Post_frequency,1,0,1,1,0,0,1,0
+Personality,0,1,0,0,1,0,0,1
